@@ -1,6 +1,5 @@
 return {
-  "dan-cooke/nvim-ts-autotag",
-  commit = "988f3351534598d828f60f90734d06a3b7445034",
+  "windwp/nvim-ts-autotag",
 
   opts = {
     -- Defaults
